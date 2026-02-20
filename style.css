@@ -173,3 +173,18 @@ div.Buttons{
         padding: 20px;
     }
 }
+.price-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(54, 68, 66, 0.85);
+    color: white;
+    padding: 8px 15px;
+    font-family: "Poppins Light", sans-serif;
+    font-size: 13px;
+    z-index: 10;
+    backdrop-filter: blur(4px);
+    border-bottom-right-radius: 10px; 
+    border-right: 0.5px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 0.5px solid rgba(255, 255, 255, 0.3);
+}
