@@ -1,2 +1,2 @@
 # DEPI
-DEPI Tasks
+DEPI Front End - Weekly Task #2
